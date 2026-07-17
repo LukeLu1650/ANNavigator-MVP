@@ -1,0 +1,12 @@
+# .gitignore
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+
+# Python caching
+__pycache__/
+*.py[cod]
+*$py.class
