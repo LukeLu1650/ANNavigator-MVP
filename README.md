@@ -20,5 +20,5 @@ This repository contains the Minimum Viable Product (MVP) of the ANNavigator sca
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/YOUR_USERNAME/ANNavigator-MVP.git](https://github.com/YOUR_USERNAME/ANNavigator-MVP.git)
+   git clone [https://github.com/LukeLu1650/ANNavigator-MVP.git](https://github.com/LukeLu1650/ANNavigator-MVP.git)
    cd ANNavigator-MVP
