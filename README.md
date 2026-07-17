@@ -13,8 +13,6 @@ Traditional Static Application Security Testing (SAST) tools (like Bandit) rely 
 This repository contains the Minimum Viable Product (MVP) of the ANNavigator scanner and the necessary test cases to validate its efficacy.
 
 * `navigator_scanner.py`: The core Agentic AI scanner (Dual-Engine: supports both Gemini and Local LLMs).
-* `target_vulnerable.py`: A vulnerable 50-line test script simulating an internal database fetching PII and sending it to a public LLM API.
-* `target_fixed.py`: The remediated script demonstrating the implementation of a Data Sanitization Layer.
 * `requirements.txt`: Python dependencies required to run the scanner.
 * `.env.example`: Template for environment variables.
 
